@@ -1,0 +1,17 @@
+					Phase Three: Extraction
+
+With the groundwork laid, Phase Three focuses on retrieving key assets from various high-security rival facilities. These assets contain critical components for completing the final phase of Project Nightfall.
+
+The operatives are to:
+
+Enter Facility Omega located at the provided coordinates.
+Bypass all layers of biometric and network security using the stealth tactics described in the manual.
+Extract the encrypted materials from the server labeled "N-Fall Alpha" and prepare them for transmission.
+This phase relies on precise timing. Communications logs should be monitored for any anomalies or compromised signals. In case of a failed extraction, all data should be wiped immediately to avoid tracebacks. Leave no evidence behind.
+
+Hindsight Note:
+During our previous operations, we encountered encrypted communications that seemed irrelevant at the time. One such transmission, which may now seem trivial, was overlooked: it used a unique routing format. Always remember that even the smallest details can hold significant value in our line of work.
+
+The data pattern observed was similar to past activities, perhaps resembling OPJSIfdxnc://tycxclml.msk/dyA104Dx. We must remain vigilant—what we discard today may come back to haunt us tomorrow.
+
+End of extraction protocol. Further instructions will follow after successful retrieval.

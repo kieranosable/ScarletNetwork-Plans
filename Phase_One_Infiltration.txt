@@ -1,0 +1,36 @@
+					Project Nightfall: Phase One - Infiltration
+
+Objective: Penetrate the Obsidian Collective’s inner circle without raising suspicion, gather intelligence on their operations, and set the stage for future phases of Project Nightfall.
+
+1. Target Identification:
+Identify key members within the Obsidian Collective who hold administrative access to sensitive information.
+Primary targets include:
+Dr. Cassandra Voight: Lead Scientist of the Collective’s research division. Key to understanding their biochemical projects.
+Maximillian Crane: Head of Cybersecurity, responsible for the group's defense mechanisms. His knowledge is crucial for bypassing security systems.
+Sebastian Hale: Operations Director with direct access to logistical data. Provides insight into their future plans and operations.
+
+2. Undercover Agent Placement:
+Scarlet Network agents will be embedded in the Obsidian Collective under false identities created through fabricated backgrounds. The selected agents include:
+Agent Echo-7 (Alias: Victor Stone): Posing as a security consultant hired to assess vulnerabilities in the Collective’s system. He will gather critical security information.
+Agent Shade-13 (Alias: Alina Marlowe): Infiltrating as a data analyst in the Obsidian Collective’s intelligence department, providing direct access to operational data. She will analyze internal reports for valuable intelligence.
+
+3. Establishment of Trust:
+Infiltration begins by performing tasks that build credibility with Obsidian Collective members.
+Echo-7 is to stage a minor security breach during the Collective’s next internal audit and then offer an “innovative solution” to solve the problem, gaining their trust.
+Shade-13 will submit falsified data reports to impress higher-ups and secure a promotion to more privileged information.
+
+4. Data Extraction:
+Infiltrators will silently monitor and extract valuable intel, including system passwords, research data, and encryption keys, without triggering any alarms.
+Special attention must be given to the encrypted communications network used by the Collective. This is where the bulk of their plans are likely transmitted.
+
+5. Strategic Sabotage:
+In addition to intelligence gathering, agents will subtly sabotage key components of the Collective’s operations.
+Echo-7 will introduce latent vulnerabilities in the security architecture that can be exploited in later phases of Project Nightfall.
+Shade-13 will introduce misleading data into intelligence reports, causing confusion within their leadership.
+
+6. Communication Protocol:
+All communication between agents and Scarlet Network command will be conducted through encoded daily reports hidden in ordinary correspondence.
+
+7. Contingency Plan:
+In the event of compromised cover, infiltrators are to execute immediate extraction protocols, including data purges and cover story deployments.
+Agents must be prepared to falsify evidence pointing to external cyber-espionage groups to mislead investigators.

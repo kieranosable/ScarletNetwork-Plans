@@ -1,0 +1,41 @@
+					Project Nightfall: Phase Two - Disruption
+
+Objective: Disrupt the Obsidian Collective’s operations to create chaos and sow distrust among their ranks, hindering their progress and diverting attention away from Project Nightfall.
+
+1. Understanding the Infrastructure:
+Analyze the internal structure of the Obsidian Collective to identify key operations that can be disrupted.
+Focus on:
+Supply Chain Logistics: Understanding the flow of resources and supplies within the Collective.
+Communication Channels: Identifying and mapping out how information is relayed within the organization.
+
+2. Identifying Vulnerabilities:
+Use the intelligence gathered from Phase One to pinpoint critical vulnerabilities within their operational framework.
+Areas of focus include:
+IT Infrastructure: Potential weak spots in their cybersecurity that could be exploited to cause disruptions.
+Team Dynamics: Targeting interpersonal conflicts or areas of distrust to fuel disarray among members.
+
+3. Implementation of Disruption Tactics:
+Launch a series of covert operations to create disruption:
+Cyber Attacks: Initiate low-level attacks on their internal systems to create confusion and force the Collective to divert resources to mitigate damage.
+Example Tactic: Deploying a fake ransomware attack that locks key personnel out of their systems temporarily.
+Misinformation Campaign: Leak false information about a major project failure to create panic and disarray among the leadership.
+Disinformation Example: Spread rumors of financial mismanagement or an impending collapse of a critical initiative.
+
+4. Sabotaging Key Projects:
+Target ongoing projects within the Collective that are crucial for their operation.
+Identify:
+Project Vantage: A major surveillance initiative aimed at monitoring rival groups. Delaying or misdirecting resources will provide a strategic advantage.
+BioDefense Initiative: A project focusing on developing bioweapons. This project must be delayed to prevent future threats.
+
+5. Communication Protocol:
+Continue utilizing encoded daily reports for all communication between agents.
+Establish secure channels to relay disruption results back to Scarlet Network command.
+
+6. Evaluation Metrics:
+Measure the effectiveness of disruption strategies through:
+Internal reports from the Obsidian Collective that show signs of confusion and conflict.
+Tracking any shifts in resources or changes in leadership decisions that indicate a reactive stance to the disruptions.
+
+7. Contingency Plan:
+If any disruption tactic is discovered, agents are to retreat to predefined safe houses and go dark until further instructions are received.
+Maintain operational security by ensuring that all communications are secure and untraceable.
